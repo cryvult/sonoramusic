@@ -4,15 +4,7 @@ Aplikacja muzyczna w przeglądarce inspirowana profesjonalnymi serwisami streami
 
 SONORA to projekt edukacyjny. Nie jest powiązana z żadnym komercyjnym serwisem muzycznym i nie korzysta z jego logo ani materiałów.
 
-![Strona główna SONORA](docs/screenshots/home.webp)
 
-| Album i kolejka odtwarzania                                          | Własna playlista                                               |
-| -------------------------------------------------------------------- | -------------------------------------------------------------- |
-| ![Widok albumu z otwartą kolejką](docs/screenshots/album-queue.webp) | ![Widok playlisty użytkownika](docs/screenshots/playlist.webp) |
-
-| Wyszukiwarka w jasnym motywie                                        | Telefon: strona główna i odtwarzacz             |
-| -------------------------------------------------------------------- | ----------------------------------------------- |
-| ![Wyszukiwarka w jasnym motywie](docs/screenshots/search-light.webp) | ![Wersja mobilna](docs/screenshots/mobile.webp) |
 
 ## Spis treści
 
